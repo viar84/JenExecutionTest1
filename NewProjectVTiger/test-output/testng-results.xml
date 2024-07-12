@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-12T21:44:29 IST" name="Default suite" finished-at="2024-07-12T21:45:03 IST" duration-ms="34526">
+    <groups>
+    </groups>
+    <test started-at="2024-07-12T21:44:29 IST" name="Default test" finished-at="2024-07-12T21:45:03 IST" duration-ms="34526">
+      <class name="Product.CreateProductTest">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:Product.CreateProductTest@26e356f0]" started-at="2024-07-12T21:44:29 IST" name="BeforeSuite" finished-at="2024-07-12T21:44:29 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:Product.CreateProductTest@26e356f0]" started-at="2024-07-12T21:44:29 IST" name="BeforeTest" finished-at="2024-07-12T21:44:29 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:Product.CreateProductTest@26e356f0]" started-at="2024-07-12T21:44:29 IST" name="BeforeClass" finished-at="2024-07-12T21:44:34 IST" duration-ms="4942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:Product.CreateProductTest@26e356f0]" started-at="2024-07-12T21:44:34 IST" name="BeforeMethod" finished-at="2024-07-12T21:44:39 IST" duration-ms="4893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="CreateProductTest()[pri:0, instance:Product.CreateProductTest@26e356f0]" started-at="2024-07-12T21:44:39 IST" name="CreateProductTest" finished-at="2024-07-12T21:44:58 IST" duration-ms="19023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProductTest -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:Product.CreateProductTest@26e356f0]" started-at="2024-07-12T21:44:58 IST" name="AfterMethod" finished-at="2024-07-12T21:45:02 IST" duration-ms="4171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:Product.CreateProductTest@26e356f0]" started-at="2024-07-12T21:45:02 IST" name="AfterClass" finished-at="2024-07-12T21:45:03 IST" duration-ms="1386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:Product.CreateProductTest@26e356f0]" started-at="2024-07-12T21:45:03 IST" name="AfterTest" finished-at="2024-07-12T21:45:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:Product.CreateProductTest@26e356f0]" started-at="2024-07-12T21:45:03 IST" name="AfterSuite" finished-at="2024-07-12T21:45:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- Product.CreateProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
